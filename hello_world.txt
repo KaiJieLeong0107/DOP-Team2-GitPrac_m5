@@ -1,1 +1,3 @@
 Hello World - Kai Jie
+
+This is hello from Wei Dai. I am adding a new line of code here.
